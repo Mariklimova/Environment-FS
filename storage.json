@@ -24,12 +24,6 @@
         "priority": 3
     },
     {
-        "id": "go",
-        "label": "GO",
-        "category": "programmingLanguages",
-        "priority": 3
-    },
-    {
         "id": "firebasestorage",
         "label": "Firebase Storage",
         "category": "databases",
